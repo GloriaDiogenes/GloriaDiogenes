@@ -1,5 +1,4 @@
-# 👩🏻‍💻 Larissa Kich
-
+# 👩🏻‍💻 Glória Diógenes
 **`Desenvolvedora Front-end`**
 
 Me chamo Maria da Glória Diógenes Medeiros, tenho 17 anos e sou natural do Rio Grande do Norte. Estou lecionando o ensino médio na EEEP Professora Maria Célia Pinheiro Falcão, com o curso técnico em Desenvolvimento de Sistemas. 
